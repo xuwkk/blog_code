@@ -6,4 +6,4 @@ The content of this repository is organized in the following way:
 
 Topic One: Implicit Model (blog-code)
 - [Deep Implicit Layers: Fixed-Point Iteration](https://xuwkk.github.io/blog/posts/learning/autometic_differentiation/deep_implicit_layers.html): [[Code](implicit_model/fixed_point_iteration.py)]
-- []() [[Code](implicit_model/diff_convex_layer.py)]
+- [Deep Implicit Layers: Differentiable Convex Layer](https://xuwkk.github.io/blog/posts/learning/autometic_differentiation/differetiable_convex_layer.html): [[Code](implicit_model/diff_convex_layer.py)]
